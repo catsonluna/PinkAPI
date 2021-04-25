@@ -1,0 +1,3505 @@
+{
+    "3v3v3v3/4v4v4v4": {
+        "total": {
+            "TotalCalls": 1131,
+            "invasion": 189,
+            "aquarium": 181,
+            "boletum": 31,
+            "temple": 21,
+            "treenan": 13,
+            "lectus": 110,
+            "katsu": 74,
+            "jurassic": 41,
+            "egg_run": 74,
+            "obelisk": 22,
+            "holmgang": 27,
+            "dreamgrove": 109,
+            "unturned": 11,
+            "rise": 24,
+            "sky_festival": 43,
+            "enchanted": 20,
+            "catalyst": 27,
+            "ashore": 21,
+            "extinction": 11,
+            "relic": 10,
+            "planet_98": 21,
+            "graveship": 28,
+            "horizon": 23
+        },
+        "2021-04-08": {
+            "total": {
+                "TotalCalls": 50,
+                "invasion": 1,
+                "aquarium": 6,
+                "boletum": 2,
+                "temple": 5,
+                "treenan": 1,
+                "lectus": 9,
+                "katsu": 2,
+                "jurassic": 4,
+                "egg_run": 2,
+                "obelisk": 3,
+                "holmgang": 2,
+                "dreamgrove": 1,
+                "unturned": 1,
+                "rise": 3,
+                "sky_festival": 2,
+                "enchanted": 2,
+                "catalyst": 1,
+                "ashore": 2,
+                "extinction": 1
+            },
+            "9": {
+                "TotalCalls": 3,
+                "invasion": 1,
+                "aquarium": 2
+            },
+            "11": {
+                "TotalCalls": 1,
+                "boletum": 1
+            },
+            "13": {
+                "TotalCalls": 5,
+                "temple": 5
+            },
+            "16": {
+                "TotalCalls": 2,
+                "treenan": 1,
+                "lectus": 1
+            },
+            "18": {
+                "TotalCalls": 5,
+                "boletum": 1,
+                "aquarium": 1,
+                "katsu": 2,
+                "lectus": 1
+            },
+            "21": {
+                "TotalCalls": 3,
+                "jurassic": 2,
+                "egg_run": 1
+            },
+            "22": {
+                "TotalCalls": 8,
+                "obelisk": 1,
+                "holmgang": 1,
+                "aquarium": 1,
+                "dreamgrove": 1,
+                "lectus": 2,
+                "unturned": 1,
+                "jurassic": 1
+            },
+            "23": {
+                "TotalCalls": 23,
+                "rise": 3,
+                "egg_run": 1,
+                "sky_festival": 2,
+                "lectus": 5,
+                "obelisk": 2,
+                "aquarium": 2,
+                "enchanted": 2,
+                "jurassic": 1,
+                "catalyst": 1,
+                "ashore": 2,
+                "extinction": 1,
+                "holmgang": 1
+            }
+        },
+        "2021-04-09": {
+            "total": {
+                "TotalCalls": 82,
+                "boletum": 3,
+                "katsu": 5,
+                "invasion": 12,
+                "enchanted": 3,
+                "rise": 3,
+                "aquarium": 9,
+                "lectus": 4,
+                "treenan": 1,
+                "egg_run": 7,
+                "obelisk": 2,
+                "dreamgrove": 4,
+                "relic": 1,
+                "holmgang": 8,
+                "sky_festival": 5,
+                "ashore": 1,
+                "planet_98": 6,
+                "catalyst": 3,
+                "graveship": 1,
+                "temple": 3,
+                "extinction": 1
+            },
+            "0": {
+                "TotalCalls": 13,
+                "boletum": 2,
+                "katsu": 4,
+                "invasion": 1,
+                "enchanted": 3,
+                "rise": 1,
+                "aquarium": 1,
+                "lectus": 1
+            },
+            "1": {
+                "TotalCalls": 4,
+                "katsu": 1,
+                "lectus": 1,
+                "treenan": 1,
+                "invasion": 1
+            },
+            "2": {
+                "TotalCalls": 3,
+                "aquarium": 1,
+                "egg_run": 1,
+                "obelisk": 1
+            },
+            "3": {
+                "TotalCalls": 2,
+                "egg_run": 1,
+                "aquarium": 1
+            },
+            "4": {
+                "TotalCalls": 8,
+                "rise": 1,
+                "dreamgrove": 1,
+                "relic": 1,
+                "holmgang": 1,
+                "invasion": 1,
+                "sky_festival": 1,
+                "ashore": 1,
+                "planet_98": 1
+            },
+            "5": {
+                "TotalCalls": 2,
+                "catalyst": 1,
+                "obelisk": 1
+            },
+            "6": {
+                "TotalCalls": 6,
+                "rise": 1,
+                "graveship": 1,
+                "sky_festival": 1,
+                "planet_98": 1,
+                "catalyst": 1,
+                "holmgang": 1
+            },
+            "8": {
+                "TotalCalls": 3,
+                "planet_98": 1,
+                "holmgang": 2
+            },
+            "9": {
+                "TotalCalls": 1,
+                "aquarium": 1
+            },
+            "14": {
+                "TotalCalls": 2,
+                "egg_run": 1,
+                "sky_festival": 1
+            },
+            "16": {
+                "TotalCalls": 3,
+                "egg_run": 1,
+                "dreamgrove": 1,
+                "invasion": 1
+            },
+            "17": {
+                "TotalCalls": 2,
+                "aquarium": 2
+            },
+            "18": {
+                "TotalCalls": 3,
+                "boletum": 1,
+                "temple": 1,
+                "aquarium": 1
+            },
+            "19": {
+                "TotalCalls": 7,
+                "aquarium": 1,
+                "catalyst": 1,
+                "invasion": 1,
+                "temple": 2,
+                "sky_festival": 2
+            },
+            "20": {
+                "TotalCalls": 10,
+                "invasion": 6,
+                "lectus": 2,
+                "egg_run": 2
+            },
+            "21": {
+                "TotalCalls": 12,
+                "holmgang": 4,
+                "egg_run": 1,
+                "invasion": 1,
+                "planet_98": 3,
+                "aquarium": 1,
+                "dreamgrove": 2
+            },
+            "23": {
+                "TotalCalls": 1,
+                "extinction": 1
+            }
+        },
+        "2021-04-10": {
+            "total": {
+                "TotalCalls": 67,
+                "boletum": 2,
+                "aquarium": 11,
+                "invasion": 9,
+                "rise": 1,
+                "dreamgrove": 6,
+                "horizon": 1,
+                "katsu": 4,
+                "lectus": 8,
+                "sky_festival": 6,
+                "relic": 2,
+                "enchanted": 1,
+                "jurassic": 2,
+                "egg_run": 3,
+                "catalyst": 3,
+                "obelisk": 2,
+                "graveship": 2,
+                "holmgang": 2,
+                "ashore": 1,
+                "unturned": 1
+            },
+            "0": {
+                "TotalCalls": 3,
+                "boletum": 1,
+                "aquarium": 1,
+                "invasion": 1
+            },
+            "1": {
+                "TotalCalls": 4,
+                "invasion": 2,
+                "rise": 1,
+                "boletum": 1
+            },
+            "17": {
+                "TotalCalls": 3,
+                "dreamgrove": 1,
+                "horizon": 1,
+                "aquarium": 1
+            },
+            "18": {
+                "TotalCalls": 3,
+                "aquarium": 1,
+                "invasion": 1,
+                "katsu": 1
+            },
+            "19": {
+                "TotalCalls": 15,
+                "lectus": 3,
+                "sky_festival": 2,
+                "dreamgrove": 4,
+                "aquarium": 3,
+                "relic": 1,
+                "enchanted": 1,
+                "jurassic": 1
+            },
+            "20": {
+                "TotalCalls": 12,
+                "egg_run": 1,
+                "invasion": 1,
+                "katsu": 1,
+                "lectus": 3,
+                "sky_festival": 3,
+                "catalyst": 2,
+                "aquarium": 1
+            },
+            "21": {
+                "TotalCalls": 14,
+                "obelisk": 1,
+                "invasion": 4,
+                "graveship": 2,
+                "lectus": 2,
+                "egg_run": 2,
+                "aquarium": 1,
+                "holmgang": 2
+            },
+            "23": {
+                "TotalCalls": 13,
+                "relic": 1,
+                "sky_festival": 1,
+                "dreamgrove": 1,
+                "catalyst": 1,
+                "aquarium": 3,
+                "katsu": 2,
+                "ashore": 1,
+                "jurassic": 1,
+                "unturned": 1,
+                "obelisk": 1
+            }
+        },
+        "2021-04-11": {
+            "total": {
+                "TotalCalls": 96,
+                "katsu": 12,
+                "rise": 6,
+                "temple": 1,
+                "catalyst": 10,
+                "sky_festival": 6,
+                "planet_98": 3,
+                "obelisk": 1,
+                "graveship": 2,
+                "egg_run": 9,
+                "aquarium": 11,
+                "invasion": 9,
+                "lectus": 7,
+                "horizon": 3,
+                "enchanted": 2,
+                "unturned": 2,
+                "dreamgrove": 5,
+                "treenan": 1,
+                "jurassic": 3,
+                "ashore": 1,
+                "relic": 1,
+                "extinction": 1
+            },
+            "0": {
+                "TotalCalls": 14,
+                "katsu": 2,
+                "rise": 1,
+                "temple": 1,
+                "catalyst": 2,
+                "sky_festival": 3,
+                "planet_98": 1,
+                "obelisk": 1,
+                "graveship": 1,
+                "egg_run": 1,
+                "aquarium": 1
+            },
+            "1": {
+                "TotalCalls": 11,
+                "invasion": 2,
+                "lectus": 1,
+                "catalyst": 2,
+                "horizon": 1,
+                "egg_run": 1,
+                "enchanted": 1,
+                "aquarium": 2,
+                "rise": 1
+            },
+            "2": {
+                "TotalCalls": 3,
+                "invasion": 2,
+                "katsu": 1
+            },
+            "4": {
+                "TotalCalls": 7,
+                "unturned": 1,
+                "dreamgrove": 1,
+                "sky_festival": 1,
+                "planet_98": 1,
+                "graveship": 1,
+                "treenan": 1,
+                "aquarium": 1
+            },
+            "5": {
+                "TotalCalls": 8,
+                "rise": 1,
+                "jurassic": 1,
+                "sky_festival": 1,
+                "aquarium": 3,
+                "egg_run": 1,
+                "catalyst": 1
+            },
+            "9": {
+                "TotalCalls": 2,
+                "ashore": 1,
+                "catalyst": 1
+            },
+            "14": {
+                "TotalCalls": 1,
+                "invasion": 1
+            },
+            "15": {
+                "TotalCalls": 6,
+                "katsu": 3,
+                "lectus": 2,
+                "invasion": 1
+            },
+            "16": {
+                "TotalCalls": 8,
+                "katsu": 2,
+                "dreamgrove": 2,
+                "lectus": 1,
+                "jurassic": 1,
+                "horizon": 1,
+                "rise": 1
+            },
+            "17": {
+                "TotalCalls": 4,
+                "egg_run": 2,
+                "sky_festival": 1,
+                "invasion": 1
+            },
+            "18": {
+                "TotalCalls": 11,
+                "dreamgrove": 1,
+                "lectus": 1,
+                "enchanted": 1,
+                "unturned": 1,
+                "planet_98": 1,
+                "egg_run": 2,
+                "jurassic": 1,
+                "rise": 1,
+                "aquarium": 1,
+                "catalyst": 1
+            },
+            "19": {
+                "TotalCalls": 9,
+                "rise": 1,
+                "relic": 1,
+                "horizon": 1,
+                "extinction": 1,
+                "dreamgrove": 1,
+                "catalyst": 3,
+                "invasion": 1
+            },
+            "20": {
+                "TotalCalls": 7,
+                "invasion": 1,
+                "egg_run": 2,
+                "katsu": 2,
+                "lectus": 1,
+                "aquarium": 1
+            },
+            "21": {
+                "TotalCalls": 2,
+                "aquarium": 2
+            },
+            "22": {
+                "TotalCalls": 2,
+                "katsu": 1,
+                "lectus": 1
+            },
+            "23": {
+                "TotalCalls": 1,
+                "katsu": 1
+            }
+        },
+        "2021-04-12": {
+            "total": {
+                "TotalCalls": 51,
+                "invasion": 11,
+                "katsu": 4,
+                "aquarium": 5,
+                "lectus": 5,
+                "dreamgrove": 11,
+                "jurassic": 3,
+                "planet_98": 1,
+                "egg_run": 3,
+                "sky_festival": 2,
+                "horizon": 2,
+                "graveship": 4
+            },
+            "0": {
+                "TotalCalls": 4,
+                "invasion": 1,
+                "katsu": 3
+            },
+            "1": {
+                "TotalCalls": 3,
+                "aquarium": 1,
+                "lectus": 1,
+                "invasion": 1
+            },
+            "2": {
+                "TotalCalls": 4,
+                "lectus": 1,
+                "aquarium": 1,
+                "invasion": 2
+            },
+            "13": {
+                "TotalCalls": 3,
+                "dreamgrove": 1,
+                "invasion": 1,
+                "jurassic": 1
+            },
+            "16": {
+                "TotalCalls": 1,
+                "jurassic": 1
+            },
+            "17": {
+                "TotalCalls": 10,
+                "planet_98": 1,
+                "dreamgrove": 7,
+                "aquarium": 2
+            },
+            "18": {
+                "TotalCalls": 9,
+                "egg_run": 2,
+                "dreamgrove": 1,
+                "invasion": 3,
+                "lectus": 1,
+                "sky_festival": 1,
+                "aquarium": 1
+            },
+            "19": {
+                "TotalCalls": 12,
+                "horizon": 2,
+                "katsu": 1,
+                "egg_run": 1,
+                "dreamgrove": 2,
+                "lectus": 1,
+                "graveship": 4,
+                "invasion": 1
+            },
+            "21": {
+                "TotalCalls": 1,
+                "invasion": 1
+            },
+            "23": {
+                "TotalCalls": 4,
+                "sky_festival": 1,
+                "jurassic": 1,
+                "invasion": 1,
+                "lectus": 1
+            }
+        },
+        "2021-04-13": {
+            "total": {
+                "TotalCalls": 48,
+                "aquarium": 8,
+                "dreamgrove": 2,
+                "lectus": 1,
+                "egg_run": 6,
+                "catalyst": 1,
+                "holmgang": 1,
+                "invasion": 13,
+                "extinction": 1,
+                "treenan": 2,
+                "katsu": 8,
+                "unturned": 1,
+                "boletum": 1,
+                "horizon": 1,
+                "jurassic": 1,
+                "relic": 1
+            },
+            "0": {
+                "TotalCalls": 7,
+                "aquarium": 6,
+                "dreamgrove": 1
+            },
+            "4": {
+                "TotalCalls": 1,
+                "lectus": 1
+            },
+            "5": {
+                "TotalCalls": 5,
+                "egg_run": 1,
+                "aquarium": 2,
+                "catalyst": 1,
+                "holmgang": 1
+            },
+            "10": {
+                "TotalCalls": 1,
+                "invasion": 1
+            },
+            "13": {
+                "TotalCalls": 1,
+                "extinction": 1
+            },
+            "14": {
+                "TotalCalls": 3,
+                "treenan": 1,
+                "katsu": 1,
+                "invasion": 1
+            },
+            "17": {
+                "TotalCalls": 6,
+                "unturned": 1,
+                "boletum": 1,
+                "egg_run": 1,
+                "invasion": 2,
+                "katsu": 1
+            },
+            "18": {
+                "TotalCalls": 4,
+                "katsu": 4
+            },
+            "19": {
+                "TotalCalls": 3,
+                "katsu": 2,
+                "invasion": 1
+            },
+            "20": {
+                "TotalCalls": 1,
+                "invasion": 1
+            },
+            "21": {
+                "TotalCalls": 8,
+                "treenan": 1,
+                "invasion": 2,
+                "horizon": 1,
+                "egg_run": 4
+            },
+            "22": {
+                "TotalCalls": 1,
+                "jurassic": 1
+            },
+            "23": {
+                "TotalCalls": 7,
+                "relic": 1,
+                "dreamgrove": 1,
+                "invasion": 5
+            }
+        },
+        "2021-04-14": {
+            "total": {
+                "TotalCalls": 108,
+                "katsu": 6,
+                "invasion": 27,
+                "aquarium": 20,
+                "lectus": 12,
+                "holmgang": 3,
+                "egg_run": 6,
+                "unturned": 1,
+                "jurassic": 2,
+                "dreamgrove": 12,
+                "sky_festival": 3,
+                "temple": 3,
+                "treenan": 1,
+                "obelisk": 2,
+                "planet_98": 1,
+                "enchanted": 1,
+                "graveship": 3,
+                "boletum": 2,
+                "catalyst": 2,
+                "extinction": 1
+            },
+            "0": {
+                "TotalCalls": 12,
+                "katsu": 2,
+                "invasion": 4,
+                "aquarium": 2,
+                "lectus": 1,
+                "holmgang": 1,
+                "egg_run": 1,
+                "unturned": 1
+            },
+            "1": {
+                "TotalCalls": 13,
+                "aquarium": 6,
+                "invasion": 1,
+                "katsu": 1,
+                "egg_run": 1,
+                "lectus": 2,
+                "jurassic": 1,
+                "dreamgrove": 1
+            },
+            "2": {
+                "TotalCalls": 9,
+                "sky_festival": 1,
+                "temple": 1,
+                "jurassic": 1,
+                "dreamgrove": 1,
+                "treenan": 1,
+                "obelisk": 1,
+                "aquarium": 1,
+                "planet_98": 1,
+                "enchanted": 1
+            },
+            "3": {
+                "TotalCalls": 6,
+                "graveship": 1,
+                "invasion": 1,
+                "lectus": 1,
+                "sky_festival": 1,
+                "obelisk": 1,
+                "dreamgrove": 1
+            },
+            "4": {
+                "TotalCalls": 2,
+                "boletum": 1,
+                "catalyst": 1
+            },
+            "5": {
+                "TotalCalls": 2,
+                "invasion": 1,
+                "lectus": 1
+            },
+            "6": {
+                "TotalCalls": 3,
+                "katsu": 1,
+                "holmgang": 2
+            },
+            "7": {
+                "TotalCalls": 5,
+                "aquarium": 1,
+                "lectus": 1,
+                "invasion": 3
+            },
+            "8": {
+                "TotalCalls": 3,
+                "lectus": 2,
+                "invasion": 1
+            },
+            "14": {
+                "TotalCalls": 2,
+                "invasion": 1,
+                "dreamgrove": 1
+            },
+            "15": {
+                "TotalCalls": 7,
+                "aquarium": 2,
+                "invasion": 4,
+                "dreamgrove": 1
+            },
+            "16": {
+                "TotalCalls": 9,
+                "invasion": 8,
+                "aquarium": 1
+            },
+            "17": {
+                "TotalCalls": 9,
+                "temple": 1,
+                "invasion": 2,
+                "aquarium": 2,
+                "egg_run": 1,
+                "extinction": 1,
+                "boletum": 1,
+                "katsu": 1
+            },
+            "18": {
+                "TotalCalls": 1,
+                "egg_run": 1
+            },
+            "19": {
+                "TotalCalls": 3,
+                "dreamgrove": 2,
+                "katsu": 1
+            },
+            "20": {
+                "TotalCalls": 4,
+                "aquarium": 1,
+                "dreamgrove": 2,
+                "catalyst": 1
+            },
+            "21": {
+                "TotalCalls": 9,
+                "dreamgrove": 2,
+                "lectus": 4,
+                "invasion": 1,
+                "egg_run": 1,
+                "graveship": 1
+            },
+            "23": {
+                "TotalCalls": 9,
+                "aquarium": 4,
+                "egg_run": 1,
+                "graveship": 1,
+                "temple": 1,
+                "dreamgrove": 1,
+                "sky_festival": 1
+            }
+        },
+        "2021-04-15": {
+            "total": {
+                "TotalCalls": 84,
+                "egg_run": 6,
+                "holmgang": 4,
+                "aquarium": 11,
+                "treenan": 1,
+                "sky_festival": 1,
+                "graveship": 4,
+                "lectus": 16,
+                "invasion": 14,
+                "dreamgrove": 5,
+                "horizon": 4,
+                "enchanted": 1,
+                "obelisk": 2,
+                "extinction": 1,
+                "jurassic": 3,
+                "rise": 1,
+                "katsu": 3,
+                "ashore": 1,
+                "catalyst": 2,
+                "unturned": 1,
+                "temple": 2,
+                "boletum": 1
+            },
+            "0": {
+                "TotalCalls": 7,
+                "egg_run": 3,
+                "holmgang": 1,
+                "aquarium": 1,
+                "treenan": 1,
+                "sky_festival": 1
+            },
+            "1": {
+                "TotalCalls": 19,
+                "graveship": 3,
+                "lectus": 1,
+                "invasion": 4,
+                "aquarium": 2,
+                "dreamgrove": 1,
+                "horizon": 2,
+                "enchanted": 1,
+                "obelisk": 2,
+                "extinction": 1,
+                "holmgang": 1,
+                "jurassic": 1
+            },
+            "2": {
+                "TotalCalls": 6,
+                "dreamgrove": 1,
+                "rise": 1,
+                "invasion": 1,
+                "aquarium": 2,
+                "katsu": 1
+            },
+            "10": {
+                "TotalCalls": 1,
+                "graveship": 1
+            },
+            "11": {
+                "TotalCalls": 2,
+                "aquarium": 1,
+                "egg_run": 1
+            },
+            "14": {
+                "TotalCalls": 1,
+                "ashore": 1
+            },
+            "15": {
+                "TotalCalls": 10,
+                "catalyst": 1,
+                "aquarium": 2,
+                "lectus": 4,
+                "dreamgrove": 1,
+                "jurassic": 1,
+                "unturned": 1
+            },
+            "16": {
+                "TotalCalls": 8,
+                "temple": 2,
+                "boletum": 1,
+                "aquarium": 2,
+                "egg_run": 2,
+                "holmgang": 1
+            },
+            "18": {
+                "TotalCalls": 1,
+                "lectus": 1
+            },
+            "19": {
+                "TotalCalls": 18,
+                "lectus": 8,
+                "dreamgrove": 2,
+                "aquarium": 1,
+                "invasion": 7
+            },
+            "20": {
+                "TotalCalls": 5,
+                "lectus": 2,
+                "katsu": 1,
+                "invasion": 2
+            },
+            "22": {
+                "TotalCalls": 1,
+                "katsu": 1
+            },
+            "23": {
+                "TotalCalls": 5,
+                "jurassic": 1,
+                "catalyst": 1,
+                "horizon": 2,
+                "holmgang": 1
+            }
+        },
+        "2021-04-16": {
+            "total": {
+                "TotalCalls": 68,
+                "aquarium": 14,
+                "egg_run": 5,
+                "unturned": 1,
+                "invasion": 16,
+                "lectus": 11,
+                "rise": 1,
+                "planet_98": 2,
+                "graveship": 2,
+                "obelisk": 1,
+                "holmgang": 1,
+                "sky_festival": 2,
+                "jurassic": 4,
+                "ashore": 1,
+                "dreamgrove": 2,
+                "katsu": 4,
+                "extinction": 1
+            },
+            "0": {
+                "TotalCalls": 14,
+                "aquarium": 4,
+                "egg_run": 2,
+                "unturned": 1,
+                "invasion": 3,
+                "lectus": 3,
+                "rise": 1
+            },
+            "1": {
+                "TotalCalls": 3,
+                "aquarium": 1,
+                "invasion": 2
+            },
+            "4": {
+                "TotalCalls": 3,
+                "planet_98": 1,
+                "egg_run": 1,
+                "aquarium": 1
+            },
+            "5": {
+                "TotalCalls": 7,
+                "graveship": 1,
+                "obelisk": 1,
+                "holmgang": 1,
+                "aquarium": 2,
+                "invasion": 1,
+                "egg_run": 1
+            },
+            "6": {
+                "TotalCalls": 2,
+                "aquarium": 1,
+                "lectus": 1
+            },
+            "15": {
+                "TotalCalls": 11,
+                "egg_run": 1,
+                "sky_festival": 2,
+                "graveship": 1,
+                "jurassic": 3,
+                "aquarium": 1,
+                "planet_98": 1,
+                "ashore": 1,
+                "dreamgrove": 1
+            },
+            "16": {
+                "TotalCalls": 2,
+                "aquarium": 1,
+                "katsu": 1
+            },
+            "17": {
+                "TotalCalls": 2,
+                "katsu": 1,
+                "lectus": 1
+            },
+            "18": {
+                "TotalCalls": 2,
+                "dreamgrove": 1,
+                "invasion": 1
+            },
+            "19": {
+                "TotalCalls": 7,
+                "jurassic": 1,
+                "aquarium": 2,
+                "lectus": 3,
+                "invasion": 1
+            },
+            "20": {
+                "TotalCalls": 7,
+                "aquarium": 1,
+                "invasion": 4,
+                "katsu": 2
+            },
+            "21": {
+                "TotalCalls": 6,
+                "lectus": 2,
+                "invasion": 4
+            },
+            "22": {
+                "TotalCalls": 1,
+                "lectus": 1
+            },
+            "23": {
+                "TotalCalls": 1,
+                "extinction": 1
+            }
+        },
+        "2021-04-17": {
+            "total": {
+                "TotalCalls": 73,
+                "aquarium": 14,
+                "lectus": 2,
+                "invasion": 20,
+                "katsu": 9,
+                "rise": 4,
+                "boletum": 6,
+                "jurassic": 1,
+                "sky_festival": 2,
+                "egg_run": 4,
+                "dreamgrove": 4,
+                "relic": 2,
+                "enchanted": 1,
+                "graveship": 1,
+                "catalyst": 1,
+                "ashore": 2
+            },
+            "0": {
+                "TotalCalls": 14,
+                "aquarium": 4,
+                "lectus": 1,
+                "invasion": 4,
+                "katsu": 1,
+                "rise": 1,
+                "boletum": 1,
+                "jurassic": 1,
+                "sky_festival": 1
+            },
+            "1": {
+                "TotalCalls": 4,
+                "rise": 1,
+                "invasion": 3
+            },
+            "2": {
+                "TotalCalls": 9,
+                "katsu": 2,
+                "invasion": 6,
+                "aquarium": 1
+            },
+            "4": {
+                "TotalCalls": 1,
+                "aquarium": 1
+            },
+            "5": {
+                "TotalCalls": 20,
+                "aquarium": 4,
+                "egg_run": 3,
+                "invasion": 3,
+                "katsu": 1,
+                "boletum": 3,
+                "rise": 1,
+                "dreamgrove": 3,
+                "relic": 1,
+                "sky_festival": 1
+            },
+            "6": {
+                "TotalCalls": 3,
+                "relic": 1,
+                "katsu": 1,
+                "invasion": 1
+            },
+            "7": {
+                "TotalCalls": 2,
+                "katsu": 2
+            },
+            "13": {
+                "TotalCalls": 3,
+                "aquarium": 2,
+                "egg_run": 1
+            },
+            "14": {
+                "TotalCalls": 4,
+                "enchanted": 1,
+                "graveship": 1,
+                "dreamgrove": 1,
+                "boletum": 1
+            },
+            "16": {
+                "TotalCalls": 1,
+                "rise": 1
+            },
+            "17": {
+                "TotalCalls": 9,
+                "boletum": 1,
+                "katsu": 2,
+                "aquarium": 2,
+                "lectus": 1,
+                "catalyst": 1,
+                "ashore": 2
+            },
+            "19": {
+                "TotalCalls": 2,
+                "invasion": 2
+            },
+            "23": {
+                "TotalCalls": 1,
+                "invasion": 1
+            }
+        },
+        "2021-04-18": {
+            "total": {
+                "TotalCalls": 85,
+                "aquarium": 15,
+                "jurassic": 8,
+                "rise": 2,
+                "lectus": 11,
+                "unturned": 1,
+                "extinction": 1,
+                "ashore": 4,
+                "horizon": 3,
+                "boletum": 4,
+                "egg_run": 7,
+                "dreamgrove": 4,
+                "graveship": 1,
+                "planet_98": 2,
+                "sky_festival": 7,
+                "catalyst": 2,
+                "invasion": 10,
+                "obelisk": 1,
+                "katsu": 2
+            },
+            "0": {
+                "TotalCalls": 3,
+                "aquarium": 3
+            },
+            "5": {
+                "TotalCalls": 4,
+                "jurassic": 1,
+                "rise": 1,
+                "lectus": 1,
+                "unturned": 1
+            },
+            "13": {
+                "TotalCalls": 4,
+                "lectus": 4
+            },
+            "14": {
+                "TotalCalls": 7,
+                "lectus": 2,
+                "extinction": 1,
+                "ashore": 2,
+                "aquarium": 1,
+                "horizon": 1
+            },
+            "15": {
+                "TotalCalls": 8,
+                "boletum": 1,
+                "egg_run": 1,
+                "dreamgrove": 1,
+                "graveship": 1,
+                "jurassic": 1,
+                "planet_98": 1,
+                "lectus": 1,
+                "sky_festival": 1
+            },
+            "16": {
+                "TotalCalls": 4,
+                "ashore": 1,
+                "horizon": 1,
+                "dreamgrove": 1,
+                "egg_run": 1
+            },
+            "17": {
+                "TotalCalls": 3,
+                "catalyst": 1,
+                "lectus": 1,
+                "boletum": 1
+            },
+            "18": {
+                "TotalCalls": 1,
+                "jurassic": 1
+            },
+            "19": {
+                "TotalCalls": 8,
+                "invasion": 1,
+                "sky_festival": 3,
+                "aquarium": 2,
+                "rise": 1,
+                "jurassic": 1
+            },
+            "21": {
+                "TotalCalls": 20,
+                "jurassic": 3,
+                "catalyst": 1,
+                "invasion": 3,
+                "obelisk": 1,
+                "lectus": 2,
+                "aquarium": 5,
+                "sky_festival": 1,
+                "egg_run": 3,
+                "planet_98": 1
+            },
+            "22": {
+                "TotalCalls": 14,
+                "dreamgrove": 2,
+                "aquarium": 2,
+                "sky_festival": 2,
+                "egg_run": 1,
+                "boletum": 2,
+                "katsu": 2,
+                "invasion": 2,
+                "ashore": 1
+            },
+            "23": {
+                "TotalCalls": 9,
+                "invasion": 4,
+                "aquarium": 2,
+                "egg_run": 1,
+                "jurassic": 1,
+                "horizon": 1
+            }
+        },
+        "2021-04-19": {
+            "total": {
+                "TotalCalls": 59,
+                "enchanted": 3,
+                "invasion": 9,
+                "obelisk": 2,
+                "aquarium": 15,
+                "graveship": 1,
+                "holmgang": 1,
+                "sky_festival": 1,
+                "dreamgrove": 12,
+                "lectus": 4,
+                "katsu": 3,
+                "relic": 1,
+                "planet_98": 2,
+                "horizon": 1,
+                "egg_run": 1,
+                "jurassic": 2,
+                "temple": 1
+            },
+            "1": {
+                "TotalCalls": 2,
+                "enchanted": 1,
+                "invasion": 1
+            },
+            "2": {
+                "TotalCalls": 3,
+                "obelisk": 1,
+                "aquarium": 1,
+                "graveship": 1
+            },
+            "3": {
+                "TotalCalls": 4,
+                "aquarium": 2,
+                "holmgang": 1,
+                "sky_festival": 1
+            },
+            "4": {
+                "TotalCalls": 8,
+                "aquarium": 3,
+                "dreamgrove": 1,
+                "lectus": 2,
+                "katsu": 2
+            },
+            "5": {
+                "TotalCalls": 9,
+                "invasion": 4,
+                "relic": 1,
+                "lectus": 2,
+                "planet_98": 1,
+                "aquarium": 1
+            },
+            "9": {
+                "TotalCalls": 1,
+                "horizon": 1
+            },
+            "14": {
+                "TotalCalls": 11,
+                "planet_98": 1,
+                "egg_run": 1,
+                "obelisk": 1,
+                "dreamgrove": 3,
+                "aquarium": 3,
+                "katsu": 1,
+                "enchanted": 1
+            },
+            "15": {
+                "TotalCalls": 10,
+                "aquarium": 4,
+                "dreamgrove": 5,
+                "jurassic": 1
+            },
+            "16": {
+                "TotalCalls": 5,
+                "dreamgrove": 3,
+                "invasion": 2
+            },
+            "17": {
+                "TotalCalls": 4,
+                "invasion": 2,
+                "jurassic": 1,
+                "enchanted": 1
+            },
+            "20": {
+                "TotalCalls": 2,
+                "temple": 1,
+                "aquarium": 1
+            }
+        },
+        "2021-04-20": {
+            "total": {
+                "TotalCalls": 53,
+                "invasion": 9,
+                "holmgang": 1,
+                "relic": 2,
+                "sky_festival": 2,
+                "aquarium": 11,
+                "lectus": 4,
+                "jurassic": 1,
+                "egg_run": 5,
+                "horizon": 2,
+                "boletum": 3,
+                "treenan": 2,
+                "catalyst": 1,
+                "temple": 2,
+                "ashore": 2,
+                "dreamgrove": 4,
+                "extinction": 1,
+                "katsu": 1
+            },
+            "0": {
+                "TotalCalls": 5,
+                "invasion": 1,
+                "holmgang": 1,
+                "relic": 1,
+                "sky_festival": 1,
+                "aquarium": 1
+            },
+            "1": {
+                "TotalCalls": 3,
+                "invasion": 1,
+                "aquarium": 1,
+                "lectus": 1
+            },
+            "3": {
+                "TotalCalls": 7,
+                "invasion": 2,
+                "jurassic": 1,
+                "lectus": 1,
+                "aquarium": 1,
+                "egg_run": 1,
+                "horizon": 1
+            },
+            "4": {
+                "TotalCalls": 5,
+                "boletum": 1,
+                "treenan": 1,
+                "catalyst": 1,
+                "egg_run": 1,
+                "temple": 1
+            },
+            "5": {
+                "TotalCalls": 1,
+                "aquarium": 1
+            },
+            "8": {
+                "TotalCalls": 3,
+                "ashore": 2,
+                "temple": 1
+            },
+            "9": {
+                "TotalCalls": 7,
+                "invasion": 1,
+                "egg_run": 1,
+                "aquarium": 3,
+                "lectus": 1,
+                "dreamgrove": 1
+            },
+            "13": {
+                "TotalCalls": 2,
+                "horizon": 1,
+                "egg_run": 1
+            },
+            "15": {
+                "TotalCalls": 2,
+                "sky_festival": 1,
+                "invasion": 1
+            },
+            "18": {
+                "TotalCalls": 7,
+                "treenan": 1,
+                "dreamgrove": 2,
+                "aquarium": 4
+            },
+            "19": {
+                "TotalCalls": 2,
+                "invasion": 2
+            },
+            "20": {
+                "TotalCalls": 1,
+                "lectus": 1
+            },
+            "23": {
+                "TotalCalls": 8,
+                "boletum": 2,
+                "extinction": 1,
+                "katsu": 1,
+                "egg_run": 1,
+                "dreamgrove": 1,
+                "invasion": 1,
+                "relic": 1
+            }
+        },
+        "2021-04-21": {
+            "total": {
+                "TotalCalls": 50,
+                "ashore": 2,
+                "invasion": 6,
+                "dreamgrove": 22,
+                "aquarium": 7,
+                "lectus": 4,
+                "obelisk": 1,
+                "catalyst": 1,
+                "enchanted": 1,
+                "treenan": 1,
+                "sky_festival": 1,
+                "horizon": 2,
+                "unturned": 1,
+                "boletum": 1
+            },
+            "0": {
+                "TotalCalls": 4,
+                "ashore": 1,
+                "invasion": 1,
+                "dreamgrove": 2
+            },
+            "1": {
+                "TotalCalls": 10,
+                "aquarium": 1,
+                "lectus": 2,
+                "invasion": 3,
+                "dreamgrove": 3,
+                "obelisk": 1
+            },
+            "2": {
+                "TotalCalls": 6,
+                "aquarium": 3,
+                "invasion": 2,
+                "catalyst": 1
+            },
+            "3": {
+                "TotalCalls": 2,
+                "enchanted": 1,
+                "lectus": 1
+            },
+            "4": {
+                "TotalCalls": 6,
+                "treenan": 1,
+                "aquarium": 3,
+                "sky_festival": 1,
+                "horizon": 1
+            },
+            "5": {
+                "TotalCalls": 2,
+                "lectus": 1,
+                "unturned": 1
+            },
+            "16": {
+                "TotalCalls": 8,
+                "boletum": 1,
+                "dreamgrove": 5,
+                "horizon": 1,
+                "ashore": 1
+            },
+            "17": {
+                "TotalCalls": 2,
+                "dreamgrove": 2
+            },
+            "21": {
+                "TotalCalls": 10,
+                "dreamgrove": 10
+            }
+        },
+        "2021-04-22": {
+            "total": {
+                "TotalCalls": 38,
+                "dreamgrove": 5,
+                "invasion": 5,
+                "graveship": 2,
+                "ashore": 2,
+                "rise": 2,
+                "unturned": 1,
+                "sky_festival": 2,
+                "aquarium": 8,
+                "lectus": 4,
+                "temple": 1,
+                "egg_run": 1,
+                "horizon": 1,
+                "boletum": 1,
+                "jurassic": 2,
+                "obelisk": 1
+            },
+            "0": {
+                "TotalCalls": 5,
+                "dreamgrove": 1,
+                "invasion": 2,
+                "graveship": 1,
+                "ashore": 1
+            },
+            "1": {
+                "TotalCalls": 3,
+                "rise": 1,
+                "unturned": 1,
+                "sky_festival": 1
+            },
+            "2": {
+                "TotalCalls": 15,
+                "graveship": 1,
+                "aquarium": 4,
+                "lectus": 3,
+                "temple": 1,
+                "sky_festival": 1,
+                "rise": 1,
+                "ashore": 1,
+                "invasion": 1,
+                "egg_run": 1,
+                "horizon": 1
+            },
+            "3": {
+                "TotalCalls": 4,
+                "aquarium": 2,
+                "invasion": 1,
+                "lectus": 1
+            },
+            "4": {
+                "TotalCalls": 6,
+                "boletum": 1,
+                "jurassic": 2,
+                "obelisk": 1,
+                "invasion": 1,
+                "aquarium": 1
+            },
+            "7": {
+                "TotalCalls": 1,
+                "dreamgrove": 1
+            },
+            "8": {
+                "TotalCalls": 4,
+                "aquarium": 1,
+                "dreamgrove": 3
+            }
+        },
+        "2021-04-23": {
+            "total": {
+                "TotalCalls": 52,
+                "rise": 1,
+                "obelisk": 2,
+                "boletum": 2,
+                "egg_run": 6,
+                "planet_98": 2,
+                "dreamgrove": 4,
+                "aquarium": 6,
+                "treenan": 2,
+                "graveship": 5,
+                "enchanted": 1,
+                "invasion": 5,
+                "lectus": 3,
+                "temple": 3,
+                "katsu": 3,
+                "ashore": 1,
+                "jurassic": 3,
+                "holmgang": 2,
+                "extinction": 1
+            },
+            "18": {
+                "TotalCalls": 5,
+                "rise": 1,
+                "obelisk": 1,
+                "boletum": 1,
+                "egg_run": 2
+            },
+            "19": {
+                "TotalCalls": 2,
+                "planet_98": 1,
+                "obelisk": 1
+            },
+            "20": {
+                "TotalCalls": 12,
+                "dreamgrove": 2,
+                "egg_run": 1,
+                "aquarium": 2,
+                "treenan": 1,
+                "graveship": 5,
+                "enchanted": 1
+            },
+            "21": {
+                "TotalCalls": 10,
+                "invasion": 2,
+                "aquarium": 1,
+                "lectus": 3,
+                "temple": 1,
+                "katsu": 2,
+                "egg_run": 1
+            },
+            "22": {
+                "TotalCalls": 6,
+                "katsu": 1,
+                "ashore": 1,
+                "jurassic": 1,
+                "boletum": 1,
+                "egg_run": 1,
+                "temple": 1
+            },
+            "23": {
+                "TotalCalls": 17,
+                "dreamgrove": 2,
+                "jurassic": 2,
+                "aquarium": 3,
+                "invasion": 3,
+                "treenan": 1,
+                "holmgang": 2,
+                "extinction": 1,
+                "planet_98": 1,
+                "egg_run": 1,
+                "temple": 1
+            }
+        },
+        "2021-04-24": {
+            "total": {
+                "TotalCalls": 66,
+                "aquarium": 10,
+                "lectus": 5,
+                "dreamgrove": 6,
+                "invasion": 12,
+                "planet_98": 2,
+                "egg_run": 3,
+                "boletum": 3,
+                "katsu": 8,
+                "enchanted": 4,
+                "horizon": 3,
+                "ashore": 1,
+                "holmgang": 2,
+                "obelisk": 2,
+                "extinction": 1,
+                "sky_festival": 1,
+                "jurassic": 2,
+                "treenan": 1
+            },
+            "0": {
+                "TotalCalls": 16,
+                "aquarium": 4,
+                "lectus": 3,
+                "dreamgrove": 2,
+                "invasion": 2,
+                "planet_98": 1,
+                "egg_run": 1,
+                "boletum": 1,
+                "katsu": 2
+            },
+            "1": {
+                "TotalCalls": 4,
+                "enchanted": 1,
+                "katsu": 1,
+                "horizon": 1,
+                "ashore": 1
+            },
+            "2": {
+                "TotalCalls": 4,
+                "holmgang": 1,
+                "planet_98": 1,
+                "enchanted": 1,
+                "katsu": 1
+            },
+            "3": {
+                "TotalCalls": 2,
+                "katsu": 1,
+                "invasion": 1
+            },
+            "4": {
+                "TotalCalls": 1,
+                "katsu": 1
+            },
+            "5": {
+                "TotalCalls": 5,
+                "dreamgrove": 1,
+                "katsu": 1,
+                "enchanted": 1,
+                "aquarium": 1,
+                "obelisk": 1
+            },
+            "6": {
+                "TotalCalls": 1,
+                "katsu": 1
+            },
+            "8": {
+                "TotalCalls": 1,
+                "obelisk": 1
+            },
+            "14": {
+                "TotalCalls": 10,
+                "invasion": 5,
+                "aquarium": 1,
+                "lectus": 2,
+                "dreamgrove": 2
+            },
+            "15": {
+                "TotalCalls": 3,
+                "enchanted": 1,
+                "invasion": 2
+            },
+            "16": {
+                "TotalCalls": 7,
+                "boletum": 1,
+                "dreamgrove": 1,
+                "extinction": 1,
+                "invasion": 1,
+                "egg_run": 1,
+                "sky_festival": 1,
+                "horizon": 1
+            },
+            "17": {
+                "TotalCalls": 3,
+                "jurassic": 1,
+                "holmgang": 1,
+                "boletum": 1
+            },
+            "19": {
+                "TotalCalls": 7,
+                "aquarium": 4,
+                "invasion": 1,
+                "jurassic": 1,
+                "egg_run": 1
+            },
+            "20": {
+                "TotalCalls": 2,
+                "treenan": 1,
+                "horizon": 1
+            }
+        },
+        "2021-04-25": {
+            "total": {
+                "TotalCalls": 1,
+                "invasion": 1
+            },
+            "0": {
+                "TotalCalls": 1,
+                "invasion": 1
+            }
+        }
+    },
+    "solo/doubles": {
+        "total": {
+            "TotalCalls": 1037,
+            "lighthouse": 128,
+            "bio-hazard": 31,
+            "speedway": 49,
+            "apollo": 32,
+            "acropolis": 47,
+            "rooted": 20,
+            "crypt": 34,
+            "orchestra": 49,
+            "cascade": 29,
+            "inca": 42,
+            "glacier": 21,
+            "sky_rise": 56,
+            "ashfire": 8,
+            "pernicious": 45,
+            "toro": 21,
+            "crogorm": 24,
+            "gateway": 39,
+            "solace": 43,
+            "airshow": 143,
+            "waterfall": 12,
+            "easter_garden": 69,
+            "cliffside": 31,
+            "siege": 28,
+            "orbit": 19,
+            "lightstone": 17
+        },
+        "2021-04-08": {
+            "total": {
+                "TotalCalls": 30,
+                "lighthouse": 8,
+                "bio-hazard": 2,
+                "speedway": 2,
+                "apollo": 1,
+                "acropolis": 1,
+                "rooted": 1,
+                "crypt": 1,
+                "orchestra": 2,
+                "cascade": 2,
+                "inca": 1,
+                "glacier": 1,
+                "sky_rise": 1,
+                "ashfire": 1,
+                "pernicious": 3,
+                "toro": 1,
+                "crogorm": 2
+            },
+            "9": {
+                "TotalCalls": 2,
+                "lighthouse": 1,
+                "bio-hazard": 1
+            },
+            "15": {
+                "TotalCalls": 4,
+                "speedway": 1,
+                "apollo": 1,
+                "acropolis": 1,
+                "rooted": 1
+            },
+            "16": {
+                "TotalCalls": 1,
+                "crypt": 1
+            },
+            "17": {
+                "TotalCalls": 5,
+                "orchestra": 1,
+                "lighthouse": 2,
+                "cascade": 1,
+                "inca": 1
+            },
+            "18": {
+                "TotalCalls": 4,
+                "lighthouse": 1,
+                "glacier": 1,
+                "orchestra": 1,
+                "sky_rise": 1
+            },
+            "19": {
+                "TotalCalls": 1,
+                "ashfire": 1
+            },
+            "20": {
+                "TotalCalls": 8,
+                "bio-hazard": 1,
+                "cascade": 1,
+                "pernicious": 3,
+                "toro": 1,
+                "lighthouse": 2
+            },
+            "21": {
+                "TotalCalls": 4,
+                "lighthouse": 2,
+                "crogorm": 2
+            },
+            "22": {
+                "TotalCalls": 1,
+                "speedway": 1
+            }
+        },
+        "2021-04-09": {
+            "total": {
+                "TotalCalls": 54,
+                "lighthouse": 4,
+                "gateway": 6,
+                "ashfire": 1,
+                "solace": 3,
+                "bio-hazard": 1,
+                "acropolis": 3,
+                "airshow": 2,
+                "inca": 12,
+                "pernicious": 5,
+                "crypt": 5,
+                "speedway": 1,
+                "sky_rise": 2,
+                "orchestra": 4,
+                "toro": 2,
+                "waterfall": 1,
+                "easter_garden": 1,
+                "crogorm": 1
+            },
+            "0": {
+                "TotalCalls": 1,
+                "lighthouse": 1
+            },
+            "2": {
+                "TotalCalls": 4,
+                "gateway": 3,
+                "ashfire": 1
+            },
+            "4": {
+                "TotalCalls": 1,
+                "solace": 1
+            },
+            "6": {
+                "TotalCalls": 1,
+                "bio-hazard": 1
+            },
+            "7": {
+                "TotalCalls": 2,
+                "acropolis": 2
+            },
+            "9": {
+                "TotalCalls": 4,
+                "airshow": 1,
+                "acropolis": 1,
+                "inca": 1,
+                "lighthouse": 1
+            },
+            "10": {
+                "TotalCalls": 1,
+                "pernicious": 1
+            },
+            "17": {
+                "TotalCalls": 5,
+                "crypt": 1,
+                "speedway": 1,
+                "lighthouse": 1,
+                "sky_rise": 2
+            },
+            "18": {
+                "TotalCalls": 4,
+                "pernicious": 2,
+                "inca": 2
+            },
+            "19": {
+                "TotalCalls": 14,
+                "pernicious": 1,
+                "crypt": 3,
+                "inca": 3,
+                "orchestra": 3,
+                "solace": 1,
+                "gateway": 3
+            },
+            "20": {
+                "TotalCalls": 11,
+                "inca": 5,
+                "toro": 2,
+                "orchestra": 1,
+                "solace": 1,
+                "waterfall": 1,
+                "airshow": 1
+            },
+            "22": {
+                "TotalCalls": 6,
+                "lighthouse": 1,
+                "inca": 1,
+                "easter_garden": 1,
+                "pernicious": 1,
+                "crogorm": 1,
+                "crypt": 1
+            }
+        },
+        "2021-04-10": {
+            "total": {
+                "TotalCalls": 59,
+                "lighthouse": 2,
+                "crypt": 3,
+                "pernicious": 5,
+                "airshow": 8,
+                "speedway": 2,
+                "orchestra": 2,
+                "solace": 4,
+                "apollo": 5,
+                "cliffside": 7,
+                "easter_garden": 1,
+                "siege": 3,
+                "acropolis": 1,
+                "orbit": 6,
+                "toro": 2,
+                "waterfall": 2,
+                "gateway": 4,
+                "sky_rise": 2
+            },
+            "0": {
+                "TotalCalls": 1,
+                "lighthouse": 1
+            },
+            "10": {
+                "TotalCalls": 1,
+                "lighthouse": 1
+            },
+            "15": {
+                "TotalCalls": 4,
+                "crypt": 2,
+                "pernicious": 1,
+                "airshow": 1
+            },
+            "16": {
+                "TotalCalls": 4,
+                "speedway": 1,
+                "orchestra": 1,
+                "solace": 1,
+                "airshow": 1
+            },
+            "17": {
+                "TotalCalls": 2,
+                "apollo": 1,
+                "airshow": 1
+            },
+            "18": {
+                "TotalCalls": 9,
+                "solace": 1,
+                "apollo": 1,
+                "airshow": 3,
+                "cliffside": 1,
+                "easter_garden": 1,
+                "pernicious": 1,
+                "speedway": 1
+            },
+            "19": {
+                "TotalCalls": 3,
+                "siege": 1,
+                "acropolis": 1,
+                "airshow": 1
+            },
+            "21": {
+                "TotalCalls": 8,
+                "orbit": 2,
+                "cliffside": 2,
+                "crypt": 1,
+                "toro": 2,
+                "waterfall": 1
+            },
+            "22": {
+                "TotalCalls": 16,
+                "waterfall": 1,
+                "orchestra": 1,
+                "airshow": 1,
+                "gateway": 4,
+                "pernicious": 3,
+                "sky_rise": 2,
+                "siege": 2,
+                "solace": 2
+            },
+            "23": {
+                "TotalCalls": 11,
+                "cliffside": 4,
+                "orbit": 4,
+                "apollo": 3
+            }
+        },
+        "2021-04-11": {
+            "total": {
+                "TotalCalls": 65,
+                "lighthouse": 7,
+                "easter_garden": 4,
+                "sky_rise": 4,
+                "cliffside": 1,
+                "airshow": 8,
+                "solace": 3,
+                "crypt": 3,
+                "waterfall": 1,
+                "pernicious": 7,
+                "orbit": 1,
+                "speedway": 3,
+                "glacier": 1,
+                "orchestra": 6,
+                "ashfire": 2,
+                "siege": 1,
+                "lightstone": 3,
+                "apollo": 2,
+                "bio-hazard": 1,
+                "crogorm": 2,
+                "inca": 2,
+                "toro": 2,
+                "gateway": 1
+            },
+            "0": {
+                "TotalCalls": 1,
+                "lighthouse": 1
+            },
+            "1": {
+                "TotalCalls": 5,
+                "easter_garden": 2,
+                "sky_rise": 2,
+                "cliffside": 1
+            },
+            "3": {
+                "TotalCalls": 17,
+                "airshow": 3,
+                "solace": 1,
+                "crypt": 3,
+                "waterfall": 1,
+                "lighthouse": 2,
+                "pernicious": 2,
+                "easter_garden": 2,
+                "sky_rise": 1,
+                "orbit": 1,
+                "speedway": 1
+            },
+            "6": {
+                "TotalCalls": 1,
+                "glacier": 1
+            },
+            "9": {
+                "TotalCalls": 6,
+                "airshow": 4,
+                "speedway": 2
+            },
+            "10": {
+                "TotalCalls": 6,
+                "pernicious": 2,
+                "solace": 2,
+                "orchestra": 1,
+                "ashfire": 1
+            },
+            "15": {
+                "TotalCalls": 3,
+                "siege": 1,
+                "airshow": 1,
+                "orchestra": 1
+            },
+            "16": {
+                "TotalCalls": 3,
+                "orchestra": 1,
+                "lighthouse": 2
+            },
+            "18": {
+                "TotalCalls": 10,
+                "lightstone": 2,
+                "apollo": 2,
+                "pernicious": 2,
+                "orchestra": 2,
+                "bio-hazard": 1,
+                "lighthouse": 1
+            },
+            "19": {
+                "TotalCalls": 7,
+                "crogorm": 2,
+                "inca": 2,
+                "ashfire": 1,
+                "lightstone": 1
+            },
+            "20": {
+                "TotalCalls": 5,
+                "toro": 2,
+                "gateway": 1,
+                "orchestra": 1,
+                "pernicious": 1
+            },
+            "23": {
+                "TotalCalls": 1,
+                "lighthouse": 1
+            }
+        },
+        "2021-04-12": {
+            "total": {
+                "TotalCalls": 49,
+                "lighthouse": 10,
+                "apollo": 2,
+                "solace": 2,
+                "airshow": 8,
+                "glacier": 1,
+                "acropolis": 3,
+                "rooted": 3,
+                "orchestra": 2,
+                "speedway": 1,
+                "siege": 2,
+                "cliffside": 2,
+                "crogorm": 2,
+                "lightstone": 2,
+                "orbit": 2,
+                "inca": 2,
+                "pernicious": 2,
+                "gateway": 2,
+                "easter_garden": 1
+            },
+            "0": {
+                "TotalCalls": 1,
+                "lighthouse": 1
+            },
+            "5": {
+                "TotalCalls": 1,
+                "apollo": 1
+            },
+            "9": {
+                "TotalCalls": 2,
+                "lighthouse": 2
+            },
+            "10": {
+                "TotalCalls": 2,
+                "lighthouse": 1,
+                "solace": 1
+            },
+            "11": {
+                "TotalCalls": 2,
+                "lighthouse": 1,
+                "airshow": 1
+            },
+            "12": {
+                "TotalCalls": 7,
+                "airshow": 5,
+                "lighthouse": 2
+            },
+            "14": {
+                "TotalCalls": 5,
+                "solace": 1,
+                "lighthouse": 1,
+                "apollo": 1,
+                "glacier": 1,
+                "acropolis": 1
+            },
+            "16": {
+                "TotalCalls": 3,
+                "rooted": 1,
+                "lighthouse": 2
+            },
+            "17": {
+                "TotalCalls": 4,
+                "orchestra": 2,
+                "speedway": 1,
+                "siege": 1
+            },
+            "18": {
+                "TotalCalls": 2,
+                "siege": 1,
+                "airshow": 1
+            },
+            "19": {
+                "TotalCalls": 8,
+                "cliffside": 2,
+                "crogorm": 2,
+                "lightstone": 2,
+                "rooted": 2
+            },
+            "20": {
+                "TotalCalls": 1,
+                "orbit": 1
+            },
+            "21": {
+                "TotalCalls": 8,
+                "inca": 2,
+                "acropolis": 2,
+                "pernicious": 2,
+                "orbit": 1,
+                "gateway": 1
+            },
+            "23": {
+                "TotalCalls": 3,
+                "easter_garden": 1,
+                "airshow": 1,
+                "gateway": 1
+            }
+        },
+        "2021-04-13": {
+            "total": {
+                "TotalCalls": 63,
+                "sky_rise": 4,
+                "easter_garden": 6,
+                "apollo": 2,
+                "glacier": 2,
+                "crypt": 2,
+                "lighthouse": 9,
+                "speedway": 5,
+                "crogorm": 4,
+                "gateway": 1,
+                "airshow": 14,
+                "acropolis": 3,
+                "cliffside": 1,
+                "orchestra": 3,
+                "bio-hazard": 1,
+                "siege": 1,
+                "inca": 2,
+                "pernicious": 1,
+                "cascade": 1,
+                "solace": 1
+            },
+            "0": {
+                "TotalCalls": 4,
+                "sky_rise": 1,
+                "easter_garden": 2,
+                "apollo": 1
+            },
+            "2": {
+                "TotalCalls": 3,
+                "glacier": 1,
+                "crypt": 1,
+                "lighthouse": 1
+            },
+            "4": {
+                "TotalCalls": 3,
+                "speedway": 1,
+                "crogorm": 1,
+                "gateway": 1
+            },
+            "8": {
+                "TotalCalls": 5,
+                "lighthouse": 1,
+                "airshow": 4
+            },
+            "9": {
+                "TotalCalls": 4,
+                "airshow": 3,
+                "easter_garden": 1
+            },
+            "10": {
+                "TotalCalls": 4,
+                "acropolis": 1,
+                "cliffside": 1,
+                "orchestra": 1,
+                "lighthouse": 1
+            },
+            "11": {
+                "TotalCalls": 1,
+                "lighthouse": 1
+            },
+            "13": {
+                "TotalCalls": 2,
+                "crogorm": 2
+            },
+            "14": {
+                "TotalCalls": 9,
+                "apollo": 1,
+                "bio-hazard": 1,
+                "siege": 1,
+                "speedway": 1,
+                "orchestra": 1,
+                "lighthouse": 1,
+                "airshow": 1,
+                "inca": 1,
+                "easter_garden": 1
+            },
+            "15": {
+                "TotalCalls": 11,
+                "lighthouse": 2,
+                "glacier": 1,
+                "easter_garden": 2,
+                "airshow": 1,
+                "acropolis": 2,
+                "speedway": 1,
+                "crogorm": 1,
+                "inca": 1
+            },
+            "16": {
+                "TotalCalls": 2,
+                "pernicious": 1,
+                "sky_rise": 1
+            },
+            "18": {
+                "TotalCalls": 8,
+                "airshow": 5,
+                "crypt": 1,
+                "lighthouse": 1,
+                "orchestra": 1
+            },
+            "23": {
+                "TotalCalls": 7,
+                "lighthouse": 1,
+                "sky_rise": 2,
+                "speedway": 2,
+                "cascade": 1,
+                "solace": 1
+            }
+        },
+        "2021-04-14": {
+            "total": {
+                "TotalCalls": 71,
+                "easter_garden": 8,
+                "airshow": 20,
+                "inca": 1,
+                "sky_rise": 3,
+                "apollo": 5,
+                "solace": 1,
+                "crogorm": 2,
+                "siege": 4,
+                "cascade": 3,
+                "lighthouse": 4,
+                "orchestra": 6,
+                "cliffside": 1,
+                "ashfire": 1,
+                "glacier": 1,
+                "rooted": 1,
+                "pernicious": 1,
+                "lightstone": 1,
+                "acropolis": 3,
+                "bio-hazard": 1,
+                "speedway": 4
+            },
+            "0": {
+                "TotalCalls": 6,
+                "easter_garden": 1,
+                "airshow": 1,
+                "inca": 1,
+                "sky_rise": 1,
+                "apollo": 1,
+                "solace": 1
+            },
+            "2": {
+                "TotalCalls": 8,
+                "crogorm": 1,
+                "easter_garden": 2,
+                "sky_rise": 1,
+                "siege": 2,
+                "cascade": 1,
+                "apollo": 1
+            },
+            "9": {
+                "TotalCalls": 4,
+                "airshow": 1,
+                "lighthouse": 1,
+                "orchestra": 2
+            },
+            "10": {
+                "TotalCalls": 2,
+                "cliffside": 1,
+                "airshow": 1
+            },
+            "11": {
+                "TotalCalls": 5,
+                "lighthouse": 1,
+                "airshow": 3,
+                "orchestra": 1
+            },
+            "12": {
+                "TotalCalls": 6,
+                "lighthouse": 1,
+                "airshow": 5
+            },
+            "14": {
+                "TotalCalls": 1,
+                "airshow": 1
+            },
+            "17": {
+                "TotalCalls": 10,
+                "crogorm": 1,
+                "ashfire": 1,
+                "glacier": 1,
+                "apollo": 1,
+                "easter_garden": 1,
+                "siege": 1,
+                "lighthouse": 1,
+                "rooted": 1,
+                "orchestra": 1,
+                "pernicious": 1
+            },
+            "18": {
+                "TotalCalls": 2,
+                "orchestra": 1,
+                "lightstone": 1
+            },
+            "19": {
+                "TotalCalls": 3,
+                "acropolis": 1,
+                "apollo": 2
+            },
+            "20": {
+                "TotalCalls": 5,
+                "airshow": 5
+            },
+            "21": {
+                "TotalCalls": 10,
+                "bio-hazard": 1,
+                "speedway": 3,
+                "acropolis": 1,
+                "sky_rise": 1,
+                "airshow": 1,
+                "easter_garden": 2,
+                "cascade": 1
+            },
+            "23": {
+                "TotalCalls": 9,
+                "acropolis": 1,
+                "airshow": 2,
+                "easter_garden": 2,
+                "siege": 1,
+                "speedway": 1,
+                "cascade": 1,
+                "orchestra": 1
+            }
+        },
+        "2021-04-15": {
+            "total": {
+                "TotalCalls": 123,
+                "orchestra": 4,
+                "acropolis": 10,
+                "glacier": 3,
+                "pernicious": 2,
+                "inca": 6,
+                "gateway": 5,
+                "solace": 6,
+                "lighthouse": 12,
+                "crypt": 4,
+                "waterfall": 2,
+                "airshow": 14,
+                "siege": 6,
+                "rooted": 3,
+                "speedway": 3,
+                "apollo": 3,
+                "bio-hazard": 12,
+                "orbit": 4,
+                "easter_garden": 9,
+                "cliffside": 2,
+                "cascade": 7,
+                "sky_rise": 4,
+                "lightstone": 1,
+                "ashfire": 1
+            },
+            "0": {
+                "TotalCalls": 9,
+                "orchestra": 1,
+                "acropolis": 2,
+                "glacier": 1,
+                "pernicious": 1,
+                "inca": 2,
+                "gateway": 1,
+                "solace": 1
+            },
+            "1": {
+                "TotalCalls": 6,
+                "lighthouse": 3,
+                "solace": 1,
+                "crypt": 1,
+                "gateway": 1
+            },
+            "4": {
+                "TotalCalls": 4,
+                "glacier": 1,
+                "crypt": 1,
+                "solace": 1,
+                "waterfall": 1
+            },
+            "10": {
+                "TotalCalls": 1,
+                "airshow": 1
+            },
+            "11": {
+                "TotalCalls": 3,
+                "airshow": 3
+            },
+            "15": {
+                "TotalCalls": 6,
+                "siege": 1,
+                "rooted": 1,
+                "airshow": 1,
+                "gateway": 1,
+                "speedway": 1,
+                "apollo": 1
+            },
+            "17": {
+                "TotalCalls": 20,
+                "bio-hazard": 2,
+                "siege": 2,
+                "orbit": 1,
+                "airshow": 2,
+                "lighthouse": 5,
+                "gateway": 1,
+                "inca": 1,
+                "crypt": 1,
+                "solace": 2,
+                "waterfall": 1,
+                "easter_garden": 1,
+                "pernicious": 1
+            },
+            "18": {
+                "TotalCalls": 46,
+                "cliffside": 1,
+                "bio-hazard": 3,
+                "lighthouse": 4,
+                "speedway": 1,
+                "rooted": 2,
+                "airshow": 6,
+                "cascade": 6,
+                "orchestra": 1,
+                "sky_rise": 4,
+                "acropolis": 6,
+                "easter_garden": 6,
+                "apollo": 1,
+                "solace": 1,
+                "orbit": 2,
+                "inca": 2
+            },
+            "19": {
+                "TotalCalls": 3,
+                "acropolis": 1,
+                "orchestra": 1,
+                "easter_garden": 1
+            },
+            "20": {
+                "TotalCalls": 6,
+                "crypt": 1,
+                "orbit": 1,
+                "siege": 1,
+                "glacier": 1,
+                "bio-hazard": 1,
+                "orchestra": 1
+            },
+            "22": {
+                "TotalCalls": 1,
+                "easter_garden": 1
+            },
+            "23": {
+                "TotalCalls": 18,
+                "bio-hazard": 6,
+                "lightstone": 1,
+                "siege": 2,
+                "gateway": 1,
+                "airshow": 1,
+                "apollo": 1,
+                "ashfire": 1,
+                "cascade": 1,
+                "cliffside": 1,
+                "speedway": 1,
+                "inca": 1,
+                "acropolis": 1
+            }
+        },
+        "2021-04-16": {
+            "total": {
+                "TotalCalls": 90,
+                "speedway": 5,
+                "lighthouse": 15,
+                "inca": 4,
+                "solace": 3,
+                "crypt": 4,
+                "airshow": 22,
+                "orchestra": 3,
+                "gateway": 5,
+                "sky_rise": 3,
+                "glacier": 3,
+                "easter_garden": 10,
+                "cliffside": 2,
+                "pernicious": 5,
+                "ashfire": 1,
+                "cascade": 1,
+                "acropolis": 1,
+                "waterfall": 1,
+                "apollo": 2
+            },
+            "0": {
+                "TotalCalls": 2,
+                "speedway": 1,
+                "lighthouse": 1
+            },
+            "1": {
+                "TotalCalls": 3,
+                "inca": 1,
+                "solace": 1,
+                "crypt": 1
+            },
+            "3": {
+                "TotalCalls": 1,
+                "inca": 1
+            },
+            "4": {
+                "TotalCalls": 1,
+                "airshow": 1
+            },
+            "5": {
+                "TotalCalls": 2,
+                "orchestra": 1,
+                "airshow": 1
+            },
+            "10": {
+                "TotalCalls": 9,
+                "lighthouse": 2,
+                "gateway": 1,
+                "airshow": 2,
+                "sky_rise": 1,
+                "solace": 1,
+                "glacier": 1,
+                "easter_garden": 1
+            },
+            "11": {
+                "TotalCalls": 10,
+                "crypt": 1,
+                "airshow": 5,
+                "orchestra": 1,
+                "solace": 1,
+                "lighthouse": 2
+            },
+            "12": {
+                "TotalCalls": 2,
+                "lighthouse": 1,
+                "airshow": 1
+            },
+            "13": {
+                "TotalCalls": 2,
+                "glacier": 1,
+                "airshow": 1
+            },
+            "14": {
+                "TotalCalls": 13,
+                "airshow": 4,
+                "inca": 2,
+                "easter_garden": 2,
+                "cliffside": 1,
+                "speedway": 1,
+                "lighthouse": 2,
+                "pernicious": 1
+            },
+            "15": {
+                "TotalCalls": 20,
+                "easter_garden": 5,
+                "pernicious": 1,
+                "gateway": 4,
+                "airshow": 4,
+                "ashfire": 1,
+                "cliffside": 1,
+                "lighthouse": 1,
+                "cascade": 1,
+                "acropolis": 1,
+                "sky_rise": 1
+            },
+            "16": {
+                "TotalCalls": 8,
+                "sky_rise": 1,
+                "speedway": 1,
+                "pernicious": 1,
+                "crypt": 1,
+                "lighthouse": 1,
+                "airshow": 2,
+                "easter_garden": 1
+            },
+            "17": {
+                "TotalCalls": 6,
+                "lighthouse": 2,
+                "airshow": 1,
+                "speedway": 2,
+                "easter_garden": 1
+            },
+            "19": {
+                "TotalCalls": 3,
+                "glacier": 1,
+                "lighthouse": 2
+            },
+            "20": {
+                "TotalCalls": 4,
+                "crypt": 1,
+                "pernicious": 1,
+                "waterfall": 1,
+                "orchestra": 1
+            },
+            "21": {
+                "TotalCalls": 1,
+                "pernicious": 1
+            },
+            "22": {
+                "TotalCalls": 1,
+                "apollo": 1
+            },
+            "23": {
+                "TotalCalls": 2,
+                "lighthouse": 1,
+                "apollo": 1
+            }
+        },
+        "2021-04-17": {
+            "total": {
+                "TotalCalls": 72,
+                "pernicious": 2,
+                "cascade": 5,
+                "easter_garden": 6,
+                "orchestra": 3,
+                "airshow": 14,
+                "lighthouse": 8,
+                "apollo": 3,
+                "toro": 2,
+                "solace": 8,
+                "glacier": 2,
+                "speedway": 3,
+                "orbit": 1,
+                "crypt": 3,
+                "bio-hazard": 1,
+                "sky_rise": 4,
+                "waterfall": 1,
+                "siege": 2,
+                "crogorm": 2,
+                "rooted": 1,
+                "inca": 1
+            },
+            "0": {
+                "TotalCalls": 3,
+                "pernicious": 1,
+                "cascade": 1,
+                "easter_garden": 1
+            },
+            "1": {
+                "TotalCalls": 4,
+                "orchestra": 1,
+                "airshow": 1,
+                "lighthouse": 2
+            },
+            "2": {
+                "TotalCalls": 5,
+                "apollo": 1,
+                "lighthouse": 1,
+                "toro": 1,
+                "solace": 1,
+                "glacier": 1
+            },
+            "4": {
+                "TotalCalls": 2,
+                "solace": 1,
+                "speedway": 1
+            },
+            "10": {
+                "TotalCalls": 1,
+                "airshow": 1
+            },
+            "13": {
+                "TotalCalls": 5,
+                "airshow": 1,
+                "apollo": 1,
+                "lighthouse": 3
+            },
+            "15": {
+                "TotalCalls": 3,
+                "orbit": 1,
+                "crypt": 1,
+                "airshow": 1
+            },
+            "16": {
+                "TotalCalls": 7,
+                "speedway": 2,
+                "airshow": 4,
+                "lighthouse": 1
+            },
+            "17": {
+                "TotalCalls": 13,
+                "airshow": 4,
+                "crypt": 2,
+                "apollo": 1,
+                "solace": 1,
+                "bio-hazard": 1,
+                "cascade": 1,
+                "sky_rise": 2,
+                "waterfall": 1
+            },
+            "18": {
+                "TotalCalls": 15,
+                "cascade": 3,
+                "easter_garden": 5,
+                "solace": 1,
+                "glacier": 1,
+                "siege": 1,
+                "crogorm": 2,
+                "orchestra": 1,
+                "rooted": 1
+            },
+            "19": {
+                "TotalCalls": 6,
+                "inca": 1,
+                "solace": 2,
+                "airshow": 1,
+                "orchestra": 1,
+                "pernicious": 1
+            },
+            "20": {
+                "TotalCalls": 1,
+                "siege": 1
+            },
+            "21": {
+                "TotalCalls": 5,
+                "solace": 1,
+                "toro": 1,
+                "sky_rise": 2,
+                "airshow": 1
+            },
+            "23": {
+                "TotalCalls": 2,
+                "solace": 1,
+                "lighthouse": 1
+            }
+        },
+        "2021-04-18": {
+            "total": {
+                "TotalCalls": 67,
+                "lighthouse": 9,
+                "orchestra": 4,
+                "orbit": 1,
+                "inca": 4,
+                "pernicious": 3,
+                "easter_garden": 5,
+                "airshow": 6,
+                "speedway": 3,
+                "glacier": 3,
+                "apollo": 1,
+                "acropolis": 5,
+                "siege": 3,
+                "sky_rise": 4,
+                "rooted": 1,
+                "toro": 1,
+                "cliffside": 4,
+                "cascade": 2,
+                "crogorm": 2,
+                "lightstone": 1,
+                "crypt": 2,
+                "bio-hazard": 1,
+                "solace": 1,
+                "waterfall": 1
+            },
+            "0": {
+                "TotalCalls": 6,
+                "lighthouse": 1,
+                "orchestra": 2,
+                "orbit": 1,
+                "inca": 1,
+                "pernicious": 1
+            },
+            "1": {
+                "TotalCalls": 1,
+                "easter_garden": 1
+            },
+            "3": {
+                "TotalCalls": 1,
+                "airshow": 1
+            },
+            "4": {
+                "TotalCalls": 3,
+                "airshow": 2,
+                "orchestra": 1
+            },
+            "10": {
+                "TotalCalls": 8,
+                "speedway": 1,
+                "glacier": 1,
+                "lighthouse": 1,
+                "apollo": 1,
+                "acropolis": 1,
+                "siege": 1,
+                "sky_rise": 1,
+                "inca": 1
+            },
+            "11": {
+                "TotalCalls": 1,
+                "inca": 1
+            },
+            "16": {
+                "TotalCalls": 3,
+                "rooted": 1,
+                "easter_garden": 1,
+                "speedway": 1
+            },
+            "17": {
+                "TotalCalls": 13,
+                "lighthouse": 2,
+                "toro": 1,
+                "cliffside": 4,
+                "cascade": 2,
+                "pernicious": 2,
+                "siege": 2
+            },
+            "18": {
+                "TotalCalls": 11,
+                "crogorm": 2,
+                "sky_rise": 2,
+                "lightstone": 1,
+                "acropolis": 1,
+                "lighthouse": 1,
+                "crypt": 2,
+                "airshow": 1,
+                "glacier": 1
+            },
+            "19": {
+                "TotalCalls": 6,
+                "airshow": 1,
+                "lighthouse": 1,
+                "bio-hazard": 1,
+                "easter_garden": 1,
+                "orchestra": 1,
+                "acropolis": 1
+            },
+            "20": {
+                "TotalCalls": 4,
+                "acropolis": 2,
+                "lighthouse": 2
+            },
+            "21": {
+                "TotalCalls": 6,
+                "solace": 1,
+                "airshow": 1,
+                "speedway": 1,
+                "easter_garden": 1,
+                "inca": 1,
+                "sky_rise": 1
+            },
+            "23": {
+                "TotalCalls": 4,
+                "lighthouse": 1,
+                "glacier": 1,
+                "easter_garden": 1,
+                "waterfall": 1
+            }
+        },
+        "2021-04-19": {
+            "total": {
+                "TotalCalls": 50,
+                "gateway": 4,
+                "easter_garden": 3,
+                "airshow": 2,
+                "glacier": 3,
+                "orbit": 1,
+                "orchestra": 3,
+                "lighthouse": 5,
+                "solace": 2,
+                "speedway": 4,
+                "lightstone": 1,
+                "sky_rise": 9,
+                "siege": 2,
+                "pernicious": 2,
+                "crogorm": 1,
+                "toro": 2,
+                "apollo": 3,
+                "crypt": 1,
+                "bio-hazard": 2
+            },
+            "3": {
+                "TotalCalls": 1,
+                "gateway": 1
+            },
+            "4": {
+                "TotalCalls": 3,
+                "easter_garden": 1,
+                "gateway": 1,
+                "airshow": 1
+            },
+            "11": {
+                "TotalCalls": 7,
+                "glacier": 1,
+                "orbit": 1,
+                "orchestra": 1,
+                "lighthouse": 3,
+                "solace": 1
+            },
+            "15": {
+                "TotalCalls": 7,
+                "speedway": 1,
+                "easter_garden": 1,
+                "lightstone": 1,
+                "lighthouse": 1,
+                "sky_rise": 1,
+                "siege": 2
+            },
+            "16": {
+                "TotalCalls": 3,
+                "airshow": 1,
+                "pernicious": 1,
+                "speedway": 1
+            },
+            "17": {
+                "TotalCalls": 6,
+                "orchestra": 2,
+                "gateway": 1,
+                "crogorm": 1,
+                "pernicious": 1,
+                "easter_garden": 1
+            },
+            "18": {
+                "TotalCalls": 4,
+                "sky_rise": 1,
+                "speedway": 2,
+                "glacier": 1
+            },
+            "20": {
+                "TotalCalls": 9,
+                "toro": 2,
+                "apollo": 2,
+                "sky_rise": 4,
+                "gateway": 1
+            },
+            "21": {
+                "TotalCalls": 9,
+                "sky_rise": 3,
+                "crypt": 1,
+                "apollo": 1,
+                "solace": 1,
+                "bio-hazard": 2,
+                "glacier": 1
+            },
+            "22": {
+                "TotalCalls": 1,
+                "lighthouse": 1
+            }
+        },
+        "2021-04-20": {
+            "total": {
+                "TotalCalls": 65,
+                "lighthouse": 16,
+                "inca": 4,
+                "acropolis": 5,
+                "pernicious": 4,
+                "gateway": 2,
+                "rooted": 2,
+                "waterfall": 1,
+                "apollo": 2,
+                "solace": 2,
+                "orchestra": 1,
+                "airshow": 11,
+                "sky_rise": 1,
+                "easter_garden": 5,
+                "crypt": 1,
+                "orbit": 1,
+                "bio-hazard": 2,
+                "speedway": 1,
+                "cliffside": 2,
+                "toro": 1,
+                "crogorm": 1
+            },
+            "0": {
+                "TotalCalls": 5,
+                "lighthouse": 4,
+                "inca": 1
+            },
+            "1": {
+                "TotalCalls": 17,
+                "inca": 3,
+                "lighthouse": 3,
+                "acropolis": 3,
+                "pernicious": 1,
+                "gateway": 1,
+                "rooted": 1,
+                "waterfall": 1,
+                "apollo": 1,
+                "solace": 1,
+                "orchestra": 1,
+                "airshow": 1
+            },
+            "9": {
+                "TotalCalls": 3,
+                "airshow": 2,
+                "sky_rise": 1
+            },
+            "10": {
+                "TotalCalls": 3,
+                "rooted": 1,
+                "easter_garden": 1,
+                "lighthouse": 1
+            },
+            "12": {
+                "TotalCalls": 6,
+                "crypt": 1,
+                "airshow": 4,
+                "lighthouse": 1
+            },
+            "14": {
+                "TotalCalls": 6,
+                "pernicious": 1,
+                "easter_garden": 3,
+                "lighthouse": 1,
+                "orbit": 1
+            },
+            "17": {
+                "TotalCalls": 9,
+                "bio-hazard": 2,
+                "easter_garden": 1,
+                "solace": 1,
+                "speedway": 1,
+                "pernicious": 1,
+                "airshow": 2,
+                "lighthouse": 1
+            },
+            "18": {
+                "TotalCalls": 10,
+                "airshow": 2,
+                "pernicious": 1,
+                "apollo": 1,
+                "acropolis": 1,
+                "cliffside": 2,
+                "gateway": 1,
+                "lighthouse": 1,
+                "toro": 1
+            },
+            "20": {
+                "TotalCalls": 1,
+                "lighthouse": 1
+            },
+            "23": {
+                "TotalCalls": 5,
+                "lighthouse": 3,
+                "crogorm": 1,
+                "acropolis": 1
+            }
+        },
+        "2021-04-21": {
+            "total": {
+                "TotalCalls": 52,
+                "orchestra": 4,
+                "sky_rise": 5,
+                "crypt": 1,
+                "airshow": 5,
+                "speedway": 2,
+                "lighthouse": 8,
+                "acropolis": 6,
+                "inca": 1,
+                "toro": 3,
+                "easter_garden": 4,
+                "crogorm": 2,
+                "orbit": 1,
+                "lightstone": 3,
+                "gateway": 3,
+                "cascade": 2,
+                "solace": 1
+            },
+            "0": {
+                "TotalCalls": 6,
+                "orchestra": 1,
+                "sky_rise": 1,
+                "crypt": 1,
+                "airshow": 1,
+                "speedway": 1,
+                "lighthouse": 1
+            },
+            "3": {
+                "TotalCalls": 5,
+                "acropolis": 1,
+                "speedway": 1,
+                "lighthouse": 2,
+                "inca": 1
+            },
+            "4": {
+                "TotalCalls": 2,
+                "orchestra": 1,
+                "acropolis": 1
+            },
+            "9": {
+                "TotalCalls": 2,
+                "airshow": 2
+            },
+            "10": {
+                "TotalCalls": 1,
+                "lighthouse": 1
+            },
+            "13": {
+                "TotalCalls": 3,
+                "toro": 2,
+                "sky_rise": 1
+            },
+            "15": {
+                "TotalCalls": 5,
+                "lighthouse": 2,
+                "easter_garden": 1,
+                "airshow": 1,
+                "sky_rise": 1
+            },
+            "17": {
+                "TotalCalls": 12,
+                "toro": 1,
+                "sky_rise": 1,
+                "airshow": 1,
+                "orchestra": 1,
+                "crogorm": 2,
+                "orbit": 1,
+                "easter_garden": 3,
+                "lightstone": 2
+            },
+            "18": {
+                "TotalCalls": 7,
+                "gateway": 2,
+                "acropolis": 3,
+                "cascade": 2
+            },
+            "22": {
+                "TotalCalls": 4,
+                "lighthouse": 2,
+                "solace": 1,
+                "gateway": 1
+            },
+            "23": {
+                "TotalCalls": 3,
+                "orchestra": 1,
+                "acropolis": 1,
+                "lightstone": 1
+            }
+        },
+        "2021-04-22": {
+            "total": {
+                "TotalCalls": 14,
+                "bio-hazard": 1,
+                "speedway": 1,
+                "solace": 1,
+                "lighthouse": 2,
+                "cliffside": 1,
+                "lightstone": 1,
+                "easter_garden": 1,
+                "airshow": 1,
+                "sky_rise": 1,
+                "waterfall": 2,
+                "rooted": 1,
+                "gateway": 1
+            },
+            "0": {
+                "TotalCalls": 1,
+                "bio-hazard": 1
+            },
+            "1": {
+                "TotalCalls": 1,
+                "speedway": 1
+            },
+            "5": {
+                "TotalCalls": 3,
+                "solace": 1,
+                "lighthouse": 1,
+                "cliffside": 1
+            },
+            "6": {
+                "TotalCalls": 1,
+                "lightstone": 1
+            },
+            "9": {
+                "TotalCalls": 3,
+                "easter_garden": 1,
+                "airshow": 1,
+                "sky_rise": 1
+            },
+            "10": {
+                "TotalCalls": 4,
+                "waterfall": 2,
+                "lighthouse": 1,
+                "rooted": 1
+            }
+        },
+        "2021-04-23": {
+            "total": {
+                "TotalCalls": 25,
+                "glacier": 1,
+                "siege": 1,
+                "airshow": 2,
+                "speedway": 1,
+                "sky_rise": 1,
+                "cliffside": 2,
+                "lighthouse": 3,
+                "cascade": 4,
+                "toro": 3,
+                "rooted": 3,
+                "bio-hazard": 2,
+                "crogorm": 2
+            },
+            "18": {
+                "TotalCalls": 2,
+                "glacier": 1,
+                "siege": 1
+            },
+            "20": {
+                "TotalCalls": 6,
+                "airshow": 1,
+                "speedway": 1,
+                "sky_rise": 1,
+                "cliffside": 1,
+                "lighthouse": 2
+            },
+            "21": {
+                "TotalCalls": 7,
+                "cascade": 4,
+                "cliffside": 1,
+                "toro": 2
+            },
+            "22": {
+                "TotalCalls": 9,
+                "rooted": 3,
+                "bio-hazard": 2,
+                "toro": 1,
+                "airshow": 1,
+                "crogorm": 2
+            },
+            "23": {
+                "TotalCalls": 1,
+                "lighthouse": 1
+            }
+        },
+        "2021-04-24": {
+            "total": {
+                "TotalCalls": 85,
+                "sky_rise": 6,
+                "orchestra": 2,
+                "easter_garden": 5,
+                "speedway": 8,
+                "crypt": 4,
+                "solace": 5,
+                "pernicious": 2,
+                "siege": 3,
+                "gateway": 4,
+                "lighthouse": 6,
+                "cliffside": 5,
+                "cascade": 2,
+                "inca": 2,
+                "acropolis": 6,
+                "bio-hazard": 4,
+                "airshow": 6,
+                "apollo": 1,
+                "toro": 2,
+                "lightstone": 4,
+                "crogorm": 1,
+                "rooted": 3,
+                "orbit": 1,
+                "ashfire": 1
+            },
+            "0": {
+                "TotalCalls": 4,
+                "sky_rise": 1,
+                "orchestra": 1,
+                "easter_garden": 2
+            },
+            "1": {
+                "TotalCalls": 4,
+                "speedway": 2,
+                "sky_rise": 1,
+                "crypt": 1
+            },
+            "2": {
+                "TotalCalls": 5,
+                "speedway": 1,
+                "solace": 1,
+                "pernicious": 1,
+                "siege": 1,
+                "gateway": 1
+            },
+            "5": {
+                "TotalCalls": 2,
+                "lighthouse": 1,
+                "cliffside": 1
+            },
+            "8": {
+                "TotalCalls": 1,
+                "crypt": 1
+            },
+            "10": {
+                "TotalCalls": 1,
+                "cascade": 1
+            },
+            "11": {
+                "TotalCalls": 4,
+                "solace": 1,
+                "siege": 1,
+                "inca": 1,
+                "acropolis": 1
+            },
+            "12": {
+                "TotalCalls": 3,
+                "bio-hazard": 1,
+                "easter_garden": 1,
+                "acropolis": 1
+            },
+            "13": {
+                "TotalCalls": 4,
+                "crypt": 1,
+                "orchestra": 1,
+                "lighthouse": 1,
+                "airshow": 1
+            },
+            "14": {
+                "TotalCalls": 3,
+                "lighthouse": 2,
+                "acropolis": 1
+            },
+            "15": {
+                "TotalCalls": 11,
+                "airshow": 1,
+                "speedway": 3,
+                "sky_rise": 2,
+                "lighthouse": 1,
+                "acropolis": 1,
+                "easter_garden": 1,
+                "apollo": 1,
+                "gateway": 1
+            },
+            "17": {
+                "TotalCalls": 14,
+                "speedway": 1,
+                "solace": 1,
+                "lighthouse": 1,
+                "siege": 1,
+                "airshow": 2,
+                "sky_rise": 1,
+                "bio-hazard": 1,
+                "toro": 1,
+                "easter_garden": 1,
+                "gateway": 1,
+                "lightstone": 1,
+                "cascade": 1,
+                "crogorm": 1
+            },
+            "18": {
+                "TotalCalls": 4,
+                "solace": 1,
+                "gateway": 1,
+                "speedway": 1,
+                "toro": 1
+            },
+            "19": {
+                "TotalCalls": 8,
+                "cliffside": 3,
+                "rooted": 3,
+                "bio-hazard": 2
+            },
+            "20": {
+                "TotalCalls": 14,
+                "cliffside": 1,
+                "lightstone": 3,
+                "orbit": 1,
+                "acropolis": 2,
+                "ashfire": 1,
+                "solace": 1,
+                "airshow": 2,
+                "crypt": 1,
+                "sky_rise": 1,
+                "inca": 1
+            }
+        }
+    },
+    "server_time": {}
+}
