@@ -135,13 +135,13 @@ def get_HLM_version():
 
 @app.errorhandler(404)
 @cross_origin()
-def non_exist_route():
+def non_exist_route(e):
     return jsonify({"success": False,
                     "cause": 404}), 404
 
 
 @app.errorhandler(429)
-def ratelimit_handler():
+def ratelimit_handler(e):
     return jsonify({"success": False,
                     "cause": 429}), 429
 
@@ -157,7 +157,7 @@ def get_PS_version():
 
 @app.route('/PinkStats/auth', methods=['GET'])
 @cross_origin()
-def get_PS_auths():
+def get_PS_auth():
     API_KEY_USER = mongo2.db.api_keys
     USER = mongo2.db.users
     try:
@@ -197,6 +197,7 @@ def get_PS_auths():
 
 
 @app.route('/PinkStats/info', methods=['GET', 'POST'])
+@cross_origin()
 def get_PS_locraw():
     if request.method == 'GET':
         return {"error": "You cant use GET here"}
@@ -274,6 +275,31 @@ def get_PS_locraw():
             return ({"error": "You have been banned", "reason": s['Ban Reason']}), 403
     else:
         return {"error": "invalid api key"}, 401
+
+
+@app.route('/PinkStats/user/<uuid>', methods=['GET'])
+@cross_origin()
+def get_PS_user(uuid):
+    API_KEY_USER = mongo2.db.api_keys
+    USER = mongo2.db.users
+    s = API_KEY_USER.find_one({'uuid': uuid})
+    if s:
+        user = USER.find_one({'uuid': uuid})
+        output = {"uuid": s['uuid'],
+                  "stats": {"overall": user['Overall'], "overtime": user['Overtime']},
+                  "server_time": {"timestamp": datetime.datetime.now().timestamp(),
+                                  "date": f"{datetime.date.today()}",
+                                  "time": f"{datetime.datetime.now().time().hour}:{datetime.datetime.now().time().minute}:{datetime.datetime.now().time().second}"
+                                  },
+                  "discordID": s['discordID'],
+                  "beta": s['Beta'],
+                  "ban_info": {"Banned": s['Banned'], "Ban Reason": s['Ban Reason']},
+                  "registration": s['Registration Date'],
+                  "warnings": s['warnings']}
+        return jsonify(output)
+    else:
+        output = {"error": "couldn't find that user"}
+        return jsonify(output)
 
 
 if __name__ == '__main__':
